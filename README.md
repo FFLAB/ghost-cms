@@ -1,6 +1,8 @@
 # ghost-cms
 Materiale per il corso intensivo su Ghost (CMS).
 
+> Durante questa giornata vedremo cos'è e come funziona Ghost, un CMS sviluppato in NodeJS che nasce da una "costola" di WordPress. Partiremo dall'installazione in locale del CMS e arriveremo a convertire un layout statico in un tema per Ghost. La partecipazione è aperta a chiunque abbia delle competenze di HTML+CSS e dei rudimenti di Javascript (jQuery) e realizzazione di temi per WordPress.
+
 ### Argomenti trattati
 * Cos'è Ghost
 * Setup ambiente di lavoro
