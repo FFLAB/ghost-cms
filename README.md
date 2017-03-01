@@ -16,5 +16,11 @@ Materiale per il corso intensivo su Ghost (CMS).
 * Git
 * NodeJS 6+
 
+### Links
+* [Sito ufficiale Ghost](https://ghost.org/)
+* [Blog sviluppo](https://dev.ghost.org/)
+* [Roadmap pubblica](https://trello.com/b/EceUgtCL/ghost-roadmap)
+* [Documentazione sviluppo temi](https://themes.ghost.org/)
+
 ### Licenza
 Rilasciato su [licenza MIT](LICENSE).
