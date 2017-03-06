@@ -21,6 +21,8 @@ Materiale per il corso intensivo su Ghost (CMS).
 * [Blog sviluppo](https://dev.ghost.org/)
 * [Roadmap pubblica](https://trello.com/b/EceUgtCL/ghost-roadmap)
 * [Documentazione sviluppo temi](https://themes.ghost.org/)
+* [Repository GitHub](https://github.com/TryGhost/Ghost)
+* [Temi per Ghost su ThemeForest](https://themeforest.net/category/blogging/ghost-themes)
 
 ### Template usato
 [Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/)
